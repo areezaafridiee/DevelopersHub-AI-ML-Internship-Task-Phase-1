@@ -1,4 +1,4 @@
-# DevelopersHub-AI-ML-Internship-Task-Phase-1
+# DevelopersHub AI/ML Internship Task Phase 1
 Hands-on AI/ML internship projects demonstrating data preprocessing, visualization, machine learning models, evaluation techniques, and practical problem-solving using Python.
 # AI/ML Engineering Internship Projects
 
