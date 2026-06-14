@@ -97,7 +97,7 @@ Heart Disease UCI Dataset
 
 ### Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
