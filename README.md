@@ -17,6 +17,7 @@ This repository contains projects completed as part of the AI/ML Engineering Int
 * Hugging Face Transformers
 * OpenAI API / Open-Source LLMs
 * Git & GitHub
+* Visual Studio Code
 
 ---
 
