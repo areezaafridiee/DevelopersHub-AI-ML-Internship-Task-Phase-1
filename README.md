@@ -152,7 +152,7 @@ EmpatheticDialogues Dataset
 
 ### Status
 
-⬜ Not Started
+⬜ Optional to do
 
 ---
 
